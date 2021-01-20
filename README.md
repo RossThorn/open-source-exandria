@@ -6,7 +6,7 @@
 
  Not sure where to start? Check out the highlights on my [Twitch Channel](https://www.twitch.tv/rth0rn/videos) and this [YouTube tutorial](https://youtu.be/5ByYLeTls2Q) to see how to work with fantasy maps in QGIS.
 
- ![Orly Skiffback](https://static.wikia.nocookie.net/criticalrole/images/d/d9/Orly_Skiffback_by_David_Ren%C3%A9.jpg/revision/latest/scale-to-width-down/1000?cb=20180926151624)
+ ![Orly Skiffback](https://static.wikia.nocookie.net/criticalrole/images/d/d9/Orly_Skiffback_by_David_Ren%C3%A9.jpg/revision/latest/scale-to-width-down/1000?cb=20180926151624 =500px)
 
  ## Contents
  This repo contains two important aspects:
@@ -53,7 +53,7 @@
  4. If adding data that exists on one continent but not another (e.g., city maps in Wildemount vs Tal'Dorei), please follow the format of the existing data.
  
  ### Please feel free to reach out with any questions or comments
- [Reddit](https://www.reddit.com/user/RedGiantMaps)
- [Instagram](https://www.instagram.com/redgiantmaps)
- [Email](mailto:ross@redgiantmaps.com)
+ [Reddit](https://www.reddit.com/user/RedGiantMaps)  
+ [Instagram](https://www.instagram.com/redgiantmaps)  
+ [Email](mailto:ross@redgiantmaps.com)  
  [Twitter](https://www.twitter.com/RealRossThorn)
