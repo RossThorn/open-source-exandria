@@ -1,0 +1,386 @@
+{
+    "type": "FeatureCollection",
+    "name": "taldorei_cities",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Founded by the de Rolo family, the city of Whitestone gets its name from the miraculous mineral that is the city's chief export.",
+                "Name": "Whitestone",
+                "Population": "4,230",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65772772774102,
+                    8.679561751338804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Meaning \"mountain city\" in elvish, Lyrengorn is the last bastion of safety before the endless\nice of the Neverfields to the north.",
+                "Name": "Lyrengorn",
+                "Population": "5,430",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.81970884114327,
+                    10.962261291939491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Sheltered within a cauldron-like valley miles deep into the northern mountain range, the village of Terrah is home to the Ashari people that watch over the rift to the Elemental Plane of Earth.",
+                "Name": "Terrah",
+                "Population": "673",
+                "Type": "Village"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.903497348715968,
+                    8.7577363931402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Heralded as the true living center of dwarven culture\non the continent, the stronghold of Kraghammer is an autonomous city-state built upon rich veins of platinum and mithral.",
+                "Name": "Kraghammer",
+                "Population": "43,550",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.774943493309229,
+                    6.624437279093294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Silver veins in the nearby rocky hills caused a population boom for the once tiny pioneer town of Jorenn Village.",
+                "Name": "Jorenn Village",
+                "Population": "1,873",
+                "Type": "Town"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.326573182736667,
+                    6.622700064831042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "The city of Westruun is the center of Tal’Dorei, a\ncrossroads of culture along the Silvercut Roadway that\nwelcomes adventurers, traders, and vagabonds of all\nkinds.",
+                "Name": "Westruun",
+                "Population": "26,205",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.264079666429414,
+                    4.075943956367879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "The small farming community of Turst Fields is a hot spot for trade caravans, as it is one of the main sources for food and produce in all of Tal'Dorei.",
+                "Name": "Turst Fields",
+                "Population": "1,390",
+                "Type": "Town"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.52766985014531,
+                    5.345847582074956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Thriving on bountiful wildlife around Mooren Lake, the town of Drynna is responsible for most of the freshwater fish supply in eastern Tal'Dorei.",
+                "Name": "Drynna",
+                "Population": "2,230",
+                "Type": "Town"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.719165641977707,
+                    4.194943133332222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "At the top of one of a mountain in the Summit Peaks, Zephrah is the tribal home of the Air Ashari people who keep watch over a gate into the Elemental Plane of Air.",
+                "Name": "Zephrah",
+                "Population": "410",
+                "Type": "Village"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.830813738908497,
+                    1.865338807650705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Known as the \"Rotted Lot\" by passing sailors and merchants, Stilben is the largest port city on the eastern coast of Tal'Dorei and is the focal point for all trade to the East.",
+                "Name": "Stilben",
+                "Population": "9,015",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.654253299216511,
+                    -0.122034308366938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "The city of Kymal stands as the grumbling ghost of a\ngold rush mining center now become a haven for gamblers\nand criminals.",
+                "Name": "Kymal",
+                "Population": "7,991",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.87008805474862,
+                    2.332649444196811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Emon is the cultural heart of human civilization on Tal'Dorei and is the nexus of politics, justice, business, industry, and education within the realm.",
+                "Name": "Emon",
+                "Population": "287,550",
+                "Type": "Metropolis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.49981021416559,
+                    3.249458868744747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Originally established by the elves of Syngorn as a\nhidden outpost to keep watch over the growing empire\nof Drassig, the Emerald Outpost now stands as a trade post between Emon and Syngorn.",
+                "Name": "Emerald Outpost",
+                "Population": "1,456",
+                "Type": "Town"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.523449648267057,
+                    0.814324178987533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Founded by the sorceress Yenlara in the wake of the\nDivergence, Syngorn marked the first major point of elven\ncivilization on Tal’Dorei following its calamitous destruction.",
+                "Name": "Syngorn",
+                "Population": "37,030",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.893307255215738,
+                    -1.471849790137657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "A shadow of a greater time, Bronbog is now only recognized for its access to the rare swamp fungus, queenscap.",
+                "Name": "Bronbog",
+                "Population": "740",
+                "Type": "Village"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.054745347827915,
+                    -2.441215348474935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Hdar-Fye is the necropolis of Princ Hdar and swears fealty to the Iron Emperor in Tz'Arrm as a entity underneath the Iron Authority.",
+                "Name": "Hdar-Fye",
+                "Population": null,
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.371676592393195,
+                    -9.060001687659563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Known as the eyrie of the red pegasi, the city-state of Ezordam-Haar is underneath the Iron Authority.",
+                "Name": "Ezordam-Haar",
+                "Population": null,
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.089612466850344,
+                    -8.875856975860726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Ruled by the Iron Emperor, the hobgoblin city of Tz'Arrm is meticulously ordered and hellishly hot.",
+                "Name": "Tz'Arrm",
+                "Population": "47,400",
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.287019477689372,
+                    -10.779843807290215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Rybad-Kol, the city of the Forge Lords, is a hobgoblin city under the rule of the Iron Authority.",
+                "Name": "Rybad-Kol",
+                "Population": null,
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.133509207553267,
+                    -10.10059303074922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Inside the trunk of a petrified elven tree, the city of Ortem-Vellak is governed under the mighty hobgoblin empire, the Iron Authority.",
+                "Name": "Ortem-Vellak",
+                "Population": null,
+                "Type": "City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.476019806424307,
+                    -8.233087698827049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "The northernmost, and second-largest community in the Mornset Countryside, Byroden borders the Gladepools and marks the first stop for any traveler endeavoring to traverse the Rifenmist.",
+                "Name": "Byroden",
+                "Population": "850",
+                "Type": "Town"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.371737924015997,
+                    -4.943335756271547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Info": "Devastated by the Scattered War, O'Noa was once a great colony for the first human visitors of Tal'Dorei. A small community of criminals, addicts, and opportunists have settled in the derelict city of what is now called New O'Noa.",
+                "Name": "O'Noa",
+                "Population": "336",
+                "Type": "Ruins"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.02730319855039,
+                    0.365591294071715
+                ]
+            }
+        }
+    ]
+}

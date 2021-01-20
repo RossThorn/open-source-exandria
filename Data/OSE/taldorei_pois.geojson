@@ -1,0 +1,268 @@
+{
+    "type": "FeatureCollection",
+    "name": "taldorei_pois",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Fort Daxio",
+                "Info": "Nestled within the Othendin Pass, Fort Daxio is a massive\nstronghold and series of military structures under\nthe rule of the Tal’Dorei Council that trains and holds\nthe bulk of the mobile army of Emon.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.986417249157531,
+                    7.215090128259374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Serpent's Head",
+                "Info": "Surrounded by ruins left by the Cinder King, Serpent's Head is a squat mountain in the southern reaches of the Cliffkeep Mountains.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.449711408319094,
+                    5.055201429019898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "The Pools of Wittebak",
+                "Info": "A once peaceful city occupied by thousands of rock gnomes, The Pools of Wittebak harbor now harbor hill giants and the sea hag, Mauvlettir in the dark and toxic caverns beneath the pools.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.323127903035202,
+                    7.950269141518937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Murdoon Mines",
+                "Info": "An iron-rich mine at the base of the Cliffkeep Mountains.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.461094407140111,
+                    4.200111953705381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Gatshadow",
+                "Info": "The monolithic mountain of Gatshadow stands unnaturally tall against the surrounding mountains. It was transformed into a place of evil as the seat of power for a priest of the Betrayer God.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.422414243902133,
+                    4.510584730628991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Shadebarrow",
+                "Info": "Once a monolithic henge used as a ritual site for the hierophant druids, the Shadebarrow is now a forgotten crypt from where treasure hunters and historians seldom return.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.264420888913089,
+                    3.784429132774447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Silvercut Crossroads",
+                "Info": "Marked by the crossing point between the Silvercut Roadway\nand the Wildwood Byway, the Silvercut Crossroads\nis a strange and solemn stop along those paths.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.093885887318966,
+                    3.137723947409452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Throne of the Archeart",
+                "Info": "In the foothills of the Ironseat Ridge is a small rise known\nas the Throne of the Archeart: a gathering place for the\nmany nomadic centaur tribes that ride across the Dividing\nPlains.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.188059487405555,
+                    2.82374959781377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Torthil",
+                "Info": "Now just a scarred patch of land, Torthil played an important role in the Scattered War, harboring the ambush that led to the death of King Warren Drassig.",
+                "Type": "Ruins"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.052556768188679,
+                    1.875230563295635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "The Shifting Keep",
+                "Info": "Built within and around a cluster of massive, living trees that form the heart of the Expanse, the Shifting Keep acts as the satellite military compound for the Syngornian scouts and rangers that patrol and defend the surrounding forest.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.242548597208687,
+                    -1.673029744402702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Tormor Falls",
+                "Info": "Feeding the mouth of the rushing Feshun River that\ncarves through the body of the Expanse, Tormor Falls is an incredible multi-level series of waterfalls that cascade\ndown the eastern side of Orencleft Mountain for hundreds\nof feet.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.938769228333478,
+                    -1.974436433942806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "The Mirescar",
+                "Info": "Surrounded by myths in Syngornian folklore, the Mirescar is an extremely dense and seemingly corrupted forest that allows nearly no\nsunlight to enter.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.053192233174841,
+                    -2.820459821873817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Wrettis",
+                "Info": "A relic of the Age of Arcanum, Wrettis is the ruined\ntower of a powerful mage driven mad by the seductive\nwhispers of beings from the beyond.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.825447972854888,
+                    -3.405901057464678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "The Ashen Gorge",
+                "Info": "Once home to Thordak, the Cinder King, the Ashen Gorge (otherwise known as the Dragon's Throne) stands tall with blazing twin peaks as a site of supernatural power.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.489623289288393,
+                    -1.92058278912584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Cavern of Axiom",
+                "Info": "The Cavern of Axiom is a lost shrine to the Knowing\nMistress spoken of only in riddles. Hidden by ever-shifting\nillusions, the entrance to this cavern opens only to\nthose who are expected by fate.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.07734405345036,
+                    -1.24480640739039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": null,
+                "Name": "Scar of the Cinder King",
+                "Info": "Corrupted by the destruction done by Thordak, this area east of Emon radiates an invisible power.",
+                "Type": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.206503434519004,
+                    3.207741951097073
+                ]
+            }
+        }
+    ]
+}
