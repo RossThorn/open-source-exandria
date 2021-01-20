@@ -10,10 +10,10 @@
 
  ## Contents
  This repo contains two important aspects:
- ### OSE Map Document (.qgz file)
+ #### OSE Map Document (.qgz file)
  This is the [QGIS](https://www.qgis.org) map document that can be used to add, edit, and manage the data. You'll need to install QGIS (3.16 or newer) to open the file.
 
- ### Data (folder)
+ #### Data (folder)
  This folder contains the OSE folder with the following vector data in geojson format. The data should all be referenced with relative paths.
 
 | Name | Description | Feature Type |
@@ -51,3 +51,9 @@
  2. **Only officially published Critical Role content is to be used to create new data for integration.** These maps are intended to be as true as possible to the official CR content. There are several well-done maps that might branch out into neighboring continents, but until there are published sources for these, they will be omitted.
  3. Feel free to make pull requests for adding other fields. At the time of this writing, demographic data or political affiliations are not recorded in any of the fields for the map, but that doesn't mean they can't be added! 
  4. If adding data that exists on one continent but not another (e.g., city maps in Wildemount vs Tal'Dorei), please follow the format of the existing data.
+ 
+ ### Please feel free to reach out with any questions or comments
+ [Reddit](https://www.reddit.com/user/RedGiantMaps)
+ [Instagram](https://www.instagram.com/redgiantmaps)
+ [Email](mailto:ross@redgiantmaps.com)
+ [Twitter](https://www.twitter.com/RealRossThorn)
