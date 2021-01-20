@@ -7,6 +7,7 @@
  Not sure where to start? Check out the highlights on my [Twitch Channel](https://www.twitch.tv/rth0rn/videos) and this [YouTube tutorial](https://youtu.be/5ByYLeTls2Q) to see how to work with fantasy maps in QGIS.
 
  ![Orly Skiffback](https://static.wikia.nocookie.net/criticalrole/images/d/d9/Orly_Skiffback_by_David_Ren%C3%A9.jpg/revision/latest/scale-to-width-down/310?cb=20180926151624)
+ *Art by [David René](http://www.crushingrainbow.com/)*
 
  ## Contents
  This repo contains two important aspects:
