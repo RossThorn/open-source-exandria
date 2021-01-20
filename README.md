@@ -52,7 +52,7 @@
  2. **Only officially published Critical Role content is to be used to create new data for integration.** These maps are intended to be as true as possible to the official CR content. There are several well-done maps that might branch out into neighboring continents, but until there are published sources for these, they will be omitted.
  3. Feel free to make pull requests for adding other fields. At the time of this writing, demographic data or political affiliations are not recorded in any of the fields for the map, but that doesn't mean they can't be added! 
  4. If adding data that exists on one continent but not another (e.g., city maps in Wildemount vs Tal'Dorei), please follow the format of the existing data.
- 5. It is **EXTREMELY IMPORTANT** that any data added is the proper scale. If you plan to add cities, please take a look at the Rexxentrum map to see the proper scale.
+ 5. It is **EXTREMELY IMPORTANT** that any data added is the proper scale. If you plan to add cities, please take a look at the Rexxentrum map to see that the scale bar of the map you're using for reference is the same scale.
  
  ### Please feel free to reach out with any questions or comments
  [Reddit](https://www.reddit.com/user/RedGiantMaps)  
