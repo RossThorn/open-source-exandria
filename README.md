@@ -47,7 +47,7 @@
  In the root folder, there are two georeferenced images of maps (.geo_tif files) for the continent of Tal'Dorei and the city of Rexxentrum. Wildemount is not included due to the size and resolution exceeding github size restrictions (working on getting a solution). These are linked to layers in the file and are merely for reference. However, if you wish to add other cities, please follow suit and add the georeferenced images you used to digitize the features.
 
  ### Pull Requests
- At this point in the project, I will try to check pull requests on a weekly basis for potential changes to bring into the interactive maps. A couple points:
+ At this point in the project, I will try to check pull requests on a monthly basis for potential changes to bring into the interactive maps. A couple points:
  1. Descriptions for cities and pois are limited in order to succinctly summarize the location to make sure the popup in the map is small. You are free to edit these for your own personal usage, but pull requests regarding descriptions will most likely be limited to correcting typos or other mistakes.
  2. **Only officially published Critical Role content is to be used to create new data for integration.** These maps are intended to be as true as possible to the official CR content. There are several well-done maps that might branch out into neighboring continents, but until there are published sources for these, they will be omitted.
  3. Feel free to make pull requests for adding other fields. At the time of this writing, demographic data or political affiliations are not recorded in any of the fields for the map, but that doesn't mean they can't be added! 
