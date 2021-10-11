@@ -10,12 +10,15 @@
  *Art by [David René](http://www.crushingrainbow.com/)*
 
  ## Contents
- This repo contains two important aspects:
+ This repo contains three important aspects:
  #### OSE Map Document (.qgz file)
  This is the [QGIS](https://www.qgis.org) map document that can be used to add, edit, and manage the data. You'll need to install QGIS (3.16 or newer) to open the file.
 
  #### Data (folder)
  This folder contains the OSE folder with the following vector data in geojson format. The data should all be referenced with relative paths.
+ 
+ #### Webmap (folder)
+ This folder contains the code to spin up a web page with a Mapbox map of your very own! You'll need to create a [Mapbox](https://www.mapbox.com) account and change some variables to get it rolling. See the [discussion](https://github.com/RossThorn/open-source-exandria/discussions/2) post for more details and the tutorials in the about section for a more detailed walkthrough.
 
 | Name | Description | Feature Type |
 |-|-|-|
