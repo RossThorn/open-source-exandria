@@ -32,6 +32,7 @@ style: 'mapbox://styles/rossthorn/ckbp6ladn41cv1hjypubbuiiv',
 // them to your account
 // wildemount: https://api.mapbox.com/styles/v1/rossthorn/ck8s05ej60kpo1inxus2e9hdm.html?title=copy&access_token=pk.eyJ1Ijoicm9zc3Rob3JuIiwiYSI6ImNpdW9mNWRobjAxNjUydHBoOTV2aGFhYW4ifQ._gXtryi8ORM28NdR7aXcCg&zoomwheel=true&fresh=true#5.08/4.99/20.98
 // tal'dorei: https://api.mapbox.com/styles/v1/rossthorn/ck7s1xop62ze91iphvnd1sbcx.html?title=copy&access_token=pk.eyJ1Ijoicm9zc3Rob3JuIiwiYSI6ImNpdW9mNWRobjAxNjUydHBoOTV2aGFhYW4ifQ._gXtryi8ORM28NdR7aXcCg&zoomwheel=true&fresh=true#5.19/3.432/-0.983
+// exandria: https://api.mapbox.com/styles/v1/rossthorn/ckbp6ladn41cv1hjypubbuiiv.html?title=copy&access_token=pk.eyJ1Ijoicm9zc3Rob3JuIiwiYSI6ImNpdW9mNWRobjAxNjUydHBoOTV2aGFhYW4ifQ._gXtryi8ORM28NdR7aXcCg&zoomwheel=true&fresh=true#4.35/4.01/10.72
 center: defaultCenter,
 zoom: defaultZoom,
 maxZoom: 12,
