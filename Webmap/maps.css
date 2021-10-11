@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+ .distance-container > * {
+ background-color: rgba(0, 0, 0, 0.5);
+ color: #fff;
+ font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ line-height: 18px;
+ display: block;
+ margin: 0;
+ padding: 5px 10px;
+ border-radius: 3px;
+ }
+
+ .mapbox-gl-measure {
+   background-image: url('images\/measure.svg');
+   background-size: 60%;
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+
+ .mapbox-gl-home {
+   background-image: url('images\/home.svg');
+   background-size: 60%;
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+
+
+ .distance-container {
+   position: absolute;
+   top: 52px;
+   right: 10px;
+   z-index: 1;
+   }
+
+#search {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1;
+  font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+#searchbox {
+  font: 14px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+     #desktop-title h1{
+       /* display:table-cell;
+       vertical-align:middle; */
+       align-items: center;
+       justify-content: center;
+       margin-top: 0;
+       margin-bottom: 10px;
+       letter-spacing: 2px;
+ 
+     }
+     /* .mapboxgl-ctrl-top-left .mapboxgl-ctrl{ */
+       /* margin: 11vh 0 0 10px; */
+     /* } */
+ 
+ 
+ 
+ 
+ 
+ .mapboxgl-popup {
+ max-width: 400px;
+ font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+ background: url('images/popup.png');
+ background-size:100% 100%;
+ overflow:visible;
+ }
+ 
+ .mapboxgl-popup-content {
+   background: none;
+   box-shadow: none;
+   padding:  30px 40px 40px 40px;
+   color: black !important;
+ }
+ 
+ 
+ .mapboxgl-popup-content * {
+   margin-top: 0px !important;
+   margin-bottom: 0px !important;
+ }
+ 
+ .mapboxgl-popup-tip {
+   display: none;
+ }
+ 
+ hr {
+    border-top: 1px solid #a78b4f;
+ }
+
+ 
+ .mapboxgl-popup-content h3 a{
+ text-decoration: none !important;
+ 
+ }
+ 
+ 
+ .logo-bottom {
+ position: absolute;
+ display: block;
+ margin: 0 10px 10px 0;
+ float: right;
+ bottom: 0;
+ right: 0;
+ }
+
+ .mapboxgl-popup-close-button {
+  top: 7%;
+  right: 10%;
+  /* position: fixed; */
+  font-size: 30px;
+  color: #5d533b;
+ }
+
+/* mobile styling */
+@media only screen and (max-width: 600px) {
+  #searchbox {
+    font-size: 18px !important;
+  }
+
+  #search {
+    font-size: 16px !important;
+  }
+
+ #logo {
+   bottom: 1vh;
+   right: 2vh;
+   max-width: 20vw;
+   opacity: 0.7;
+ }
+
+   #desktop-title h1{
+     /* display:table-cell;
+     vertical-align:middle; */
+     align-items: center;
+     justify-content: center;
+     margin-top: 0;
+     margin-bottom: 10px;
+     letter-spacing: 2px;
+
+   }
+   /* .mapboxgl-ctrl-top-left .mapboxgl-ctrl{ */
+     /* margin: 11vh 0 0 10px; */
+   /* } */
+
+   .mapboxgl-popup-close-button {
+    top: 7%;
+    right: 10%;
+    /* position: fixed; */
+    padding: 0px;
+    font-size: 30px;
+    color: #5d533b;
+   }
+
+   .btn-container {
+    position: absolute;
+    /* display: block; */
+    /* margin: 10px 10px 0 0; */
+    margin: 0 0 40px 10px;
+    float: right;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+
+
+
+.mapboxgl-popup {
+max-width: 400px;
+font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+background: url('images/popup.png');
+background-size:100% 100%;
+overflow:visible;
+}
+
+
+
+.mapboxgl-popup-content * {
+ margin-top: 0px !important;
+ margin-bottom: 0px !important;
+}
+
+.mapboxgl-popup-tip {
+ display: none;
+}
+
+hr {
+  border-top: 1px solid #a78b4f;
+}
+
+.mapboxgl-popup-content h3 a{
+text-decoration: none !important;
+
+}
+
+
+.logo-bottom {
+position: absolute;
+display: block;
+margin: 0 10px 10px 0;
+float: right;
+bottom: 0;
+right: 0;
+}
+
+.btn-container {
+  position: absolute;
+  /* display: block; */
+  /* margin: 10px 10px 0 0; */
+  margin: 0 0 40px 10px;
+  float: right;
+  bottom: 0;
+  left: 0;
+}
+
+/* .btn-container {
+  position: absolute;
+display: block;
+margin: 10px 10px 0 0;
+float: right;
+top: 0;
+right: 0;
+} */
+
+a.logo {
+ width: 105px;
+ height: 50px;
+ /* margin: 0 -3px -3px 0; */
+ display: block;
+ background-size:100% 100%;
+ background-repeat: no-repeat;
+ cursor: pointer;
+ background-image: url("images/Logo_short.svg");
+ opacity: 0.7;
+}
+
+.hidden-link {
+  text-decoration: none !important;
+  color: black;
+}
+
+#unit-radio {
+position: absolute;
+bottom: 20px;
+left: 10px;
+background-color: red;
+}
+
+a.kofi-button {
+  min-width: 0px !important;
+}
+
+img.kofiimg {
+  margin-right: 0px !important;
+}
