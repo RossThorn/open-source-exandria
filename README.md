@@ -6,7 +6,8 @@
 
  ### Not sure where to start?
  Check out the highlights on my [Twitch Channel](https://www.twitch.tv/rth0rn/videos) and this [YouTube tutorial](https://youtu.be/5ByYLeTls2Q) to see how to work with fantasy maps in QGIS. 
-  If you'd like a more polished primer on web mapping in general to create your own interactive fantasy map, I would highly recommend checking out [this free and open-source workbook/course](https://github.com/uwcartlab/webmapping) from UW-Madison! The course touches on web development basics and gets into some specific web mapping technologies (not Mapbox, but many of the concepts translate well).
+
+ If you'd like a more polished primer on web mapping in general to create your own interactive fantasy map, I would highly recommend checking out [this free and open-source workbook/course](https://github.com/uwcartlab/webmapping) from UW-Madison! The course touches on web development basics and gets into some specific web mapping technologies (not Mapbox, but many of the concepts translate well).
 
  ![Orly Skiffback](https://static.wikia.nocookie.net/criticalrole/images/d/d9/Orly_Skiffback_by_David_Ren%C3%A9.jpg/revision/latest/scale-to-width-down/310?cb=20180926151624)  
  *Art by [David René](http://www.crushingrainbow.com/)*
