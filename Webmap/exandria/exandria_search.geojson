@@ -195,7 +195,7 @@
 { "id": null, "Name": "Seashale Mountains", "Type": "Mountain" , "type": "Point", "zoom": 7, "coordinates": [ -8.667924767701303, 4.57576483512888 ] },
 { "id": null, "Name": "Ironseat Ridge", "Type": "Mountain" , "type": "Point", "zoom": 7, "coordinates": [ -2.615508676316037, 2.888593759692764 ] },
 { "id": null, "Name": "Othendin Pass", "Type": "Plains" , "type": "Point", "zoom": 7, "coordinates": [ -6.577569427914645, 6.224168192838989 ] },
-{ "id": null, "Name": "Niirdal-Poc", "Type": "City", "type": "Point", "zoom": 7, "coordinates": [ -3.997983268399979, -6.797744626647855 ] } 
+{ "id": null, "Name": "Niirdal-Poc", "Type": "City", "type": "Point", "zoom": 7, "coordinates": [ -4.052684923376876, -6.815717982743069 ] } 
 
 ]
 
