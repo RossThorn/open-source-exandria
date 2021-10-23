@@ -381,6 +381,23 @@
                     0.365591294071715
                 ]
             }
+        },
+        { 
+            "type": "Feature", 
+            "properties": { 
+                "id": null, 
+                "Info": "Founded as the capital of the Qoniira Tetrarchy long before the Calamity, the city of Niirdal-Poc lies hidden in the depths of the Rifenmist Jungle.", 
+                "Name": "Niirdal-Poc", 
+                "Population": "15,000", 
+                "Type": "City" 
+            }, 
+            "geometry": { 
+                "type": "Point", 
+                "coordinates": [ 
+                    -3.997983268399979, 
+                    -6.797744626647855 
+                ] 
+            } 
         }
     ]
 }
