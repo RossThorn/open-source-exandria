@@ -51,7 +51,7 @@
 | wildemount_roads | The major roadways of Wildemount. | line |
 
  ### Extras
- In the root folder, there are two georeferenced images of maps (.geo_tif files) for the continent of Tal'Dorei and the city of Rexxentrum. Wildemount is not included due to the size and resolution exceeding github size restrictions (working on getting a solution). These are linked to layers in the file and are merely for reference. However, if you wish to add other cities, please follow suit and add the georeferenced images you used to digitize the features.
+ In the root folder, there are two georeferenced images of maps (.geo_tif files) for the continent of Tal'Dorei and the city of Rexxentrum. Wildemount is not included due to the size and resolution exceeding Github size restrictions, but you can download it from [this Dropbox link](https://www.dropbox.com/sh/1d2yh8jdm04vldw/AADUnuR5xuBZInEmE0tdYyWla?dl=0) and add it to your map if you wish. These are linked to layers in the file and are merely for reference. However, if you wish to add other cities, please follow suit and add the georeferenced images you used to digitize the features.
 
  ### Pull Requests
  At this point in the project, I will try to check pull requests on a monthly basis for potential changes to bring into the interactive maps. A couple points:
